@@ -1,0 +1,29 @@
+
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÅ»ªþÿÿÿÿ
+V	java:S125k"<This block of commented-out lines of code should be removed.(ÊÿÉçøÿÿÿÿ
+Q	java:S125s"<This block of commented-out lines of code should be removed.(Êþÿò
+V	java:S125U"<This block of commented-out lines of code should be removed.(èƒŠ÷ýÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¦»úÆ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(°‡¶
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(õú‚’
+Q	java:S125o"<This block of commented-out lines of code should be removed.(±¯€¤
+h
+java:S1128"RRemove this unused import 'org.springframework.data.jpa.repository.JpaRepository'.(À™‡“
+J
+java:S2326"/ProductRepositoryImpl is not used in the class.(£³¸íýÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(¶“Ð­
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(£³¸íýÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(‰ÕåÍþÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(ƒŠ²
+V	java:S125W"<This block of commented-out lines of code should be removed.(Ã•¥Úÿÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(õ¸µ¶þÿÿÿÿ
+Q	java:S125q"<This block of commented-out lines of code should be removed.(±¯€¤
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¬¡Î¬üÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÕËáë
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Äû•ûÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(¸äÉÌ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(À—öŠúÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(±ª­×üÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(‚ÝšÛùÿÿÿÿ
